@@ -62,3 +62,5 @@ If you do not have high requirements for proxy network speed and security, you c
 [922 S5 Proxy](https://www.lalicat.com/922-s5-proxy)  
 [IP2World](https://www.lalicat.com/ip2world-proxy)  
 [Dove Proxy](https://www.lalicat.com/dove-proxy-2)  
+
+The article is from [https://www.lalicat.com/croxy-proxy](https://www.lalicat.com/croxy-proxy)
